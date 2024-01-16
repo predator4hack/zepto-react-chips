@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "name": "Marina Augustine",
+            "email": "marina.august@gmail.com",
+            "logoName": "bear.png"
+        },
+        {
+            "name": "Nick Giannopoulos",
+            "email": "nick.g@gmail.com",
+            "logoName": "cat.png"
+        },
+        {
+            "name": "Brad Grant",
+            "email": "brad.grant@gmail.com",
+            "logoName": "deer.png"
+        },
+        {
+            "name": "Sohame Newman",
+            "email": "soham.newman@gmail.com",
+            "logoName": "jacutinga.png"
+        },
+        {
+            "name": "Ken Alvarez",
+            "email": "ken.alvarez@gmail.com",
+            "logoName": "jaguar.png"
+        },
+        {
+            "name": "Denise Hall",
+            "email": "deni.hall@gmail.com",
+            "logoName": "parrot.png"
+        },
+        {
+            "name": "Tracy Bing",
+            "email": "tracy.bing@gmail.com",
+            "logoName": "turtle.png"
+        },
+        {
+            "name": "Harvey Spector",
+            "email": "harvey@example.com",
+            "logoName": "owl.png"
+        },
+        {
+            "name": "Mike Zane",
+            "email": "mike.zane@havard.com",
+            "logoName": "octopus.png"
+        },
+        {
+            "name": "Calvin Jones",
+            "email": "calvin.jones@gmail.com",
+            "logoName": "elephant.png"
+        }
+    ]
+}
