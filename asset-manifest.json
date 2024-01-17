@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/zepto-react-chips/static/css/main.70306a7d.css",
+    "main.js": "/zepto-react-chips/static/js/main.4334bb62.js",
+    "static/media/turtle.png": "/zepto-react-chips/static/media/turtle.63aa63efc8fb64348a2e.png",
+    "static/media/deer.png": "/zepto-react-chips/static/media/deer.f3b6f4eacbe971cc0e71.png",
+    "static/media/jaguar.png": "/zepto-react-chips/static/media/jaguar.bf1f494d5f00d86b9b04.png",
+    "static/media/owl.png": "/zepto-react-chips/static/media/owl.50f9906df72a27d282b8.png",
+    "static/media/elephant.png": "/zepto-react-chips/static/media/elephant.c56facb971c1e9cfeb00.png",
+    "static/media/bear.png": "/zepto-react-chips/static/media/bear.11022c3990b5e50786fd.png",
+    "static/media/jacutinga.png": "/zepto-react-chips/static/media/jacutinga.7e78a08c0a780636d498.png",
+    "static/media/octopus.png": "/zepto-react-chips/static/media/octopus.a8121b1f0f4dc0ca1076.png",
+    "static/media/parrot.png": "/zepto-react-chips/static/media/parrot.85c0f17b1cec2b5f5bcb.png",
+    "static/media/cat.png": "/zepto-react-chips/static/media/cat.077086a0654634be593c.png",
+    "index.html": "/zepto-react-chips/index.html",
+    "static/media/close.svg": "/zepto-react-chips/static/media/close.62d542d8225e9ae56794.svg",
+    "main.70306a7d.css.map": "/zepto-react-chips/static/css/main.70306a7d.css.map",
+    "main.4334bb62.js.map": "/zepto-react-chips/static/js/main.4334bb62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70306a7d.css",
+    "static/js/main.4334bb62.js"
+  ]
+}
